@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leo, an <a href="(https://www.linkedin.com/in/leo-geagan-chevez-04ba68193/)">IT Professional</a>☺</h1>
+<h1>Hi, I'm Leo, an <a href="https://www.linkedin.com/in/leo-geagan-chevez-04ba68193/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
